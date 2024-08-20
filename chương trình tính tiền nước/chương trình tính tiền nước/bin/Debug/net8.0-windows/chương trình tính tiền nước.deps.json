@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "chương trình tính tiền nước/1.0.0": {
+        "runtime": {
+          "chương trình tính tiền nước.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chương trình tính tiền nước/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

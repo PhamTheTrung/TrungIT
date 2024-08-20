@@ -1,0 +1,19 @@
+C:\Users\admin\source\repos\chương trình tính tiền nước\chương trình tính tiền nước\bin\Debug\net8.0-windows\chương trình tính tiền nước.exe
+C:\Users\admin\source\repos\chương trình tính tiền nước\chương trình tính tiền nước\bin\Debug\net8.0-windows\chương trình tính tiền nước.deps.json
+C:\Users\admin\source\repos\chương trình tính tiền nước\chương trình tính tiền nước\bin\Debug\net8.0-windows\chương trình tính tiền nước.runtimeconfig.json
+C:\Users\admin\source\repos\chương trình tính tiền nước\chương trình tính tiền nước\bin\Debug\net8.0-windows\chương trình tính tiền nước.dll
+C:\Users\admin\source\repos\chương trình tính tiền nước\chương trình tính tiền nước\bin\Debug\net8.0-windows\chương trình tính tiền nước.pdb
+C:\Users\admin\source\repos\chương trình tính tiền nước\chương trình tính tiền nước\obj\Debug\net8.0-windows\chương_trình_tính_tiền_nước.Form1.resources
+C:\Users\admin\source\repos\chương trình tính tiền nước\chương trình tính tiền nước\obj\Debug\net8.0-windows\chương trình tính tiền nước.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\chương trình tính tiền nước\chương trình tính tiền nước\obj\Debug\net8.0-windows\chương trình tính tiền nước.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\chương trình tính tiền nước\chương trình tính tiền nước\obj\Debug\net8.0-windows\chương trình tính tiền nước.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\chương trình tính tiền nước\chương trình tính tiền nước\obj\Debug\net8.0-windows\chương trình tính tiền nước.AssemblyInfo.cs
+C:\Users\admin\source\repos\chương trình tính tiền nước\chương trình tính tiền nước\obj\Debug\net8.0-windows\chương trình tính tiền nước.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\chương trình tính tiền nước\chương trình tính tiền nước\obj\Debug\net8.0-windows\chương trình tính tiền nước.dll
+C:\Users\admin\source\repos\chương trình tính tiền nước\chương trình tính tiền nước\obj\Debug\net8.0-windows\refint\chương trình tính tiền nước.dll
+C:\Users\admin\source\repos\chương trình tính tiền nước\chương trình tính tiền nước\obj\Debug\net8.0-windows\chương trình tính tiền nước.pdb
+C:\Users\admin\source\repos\chương trình tính tiền nước\chương trình tính tiền nước\obj\Debug\net8.0-windows\chương trình tính tiền nước.genruntimeconfig.cache
+C:\Users\admin\source\repos\chương trình tính tiền nước\chương trình tính tiền nước\obj\Debug\net8.0-windows\ref\chương trình tính tiền nước.dll
+C:\Users\admin\source\repos\chương trình tính tiền nước\chương trình tính tiền nước\obj\Debug\net8.0-windows\chương_trình_tính_tiền_nước.Properties.Resources.resources
+C:\Users\admin\source\repos\chương trình tính tiền nước\chương trình tính tiền nước\obj\Debug\net8.0-windows\chương_trình_tính_tiền_nước.bill.resources
+C:\Users\admin\source\repos\chương trình tính tiền nước\chương trình tính tiền nước\obj\Debug\net8.0-windows\chương_trình_tính_tiền_nước.Form2.resources
